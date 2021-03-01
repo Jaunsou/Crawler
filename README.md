@@ -12,7 +12,7 @@ BeautifulSoup模块 (可通过$pip install BeautifulSoup安装)
 
 使用方法：
 
-进入main.py文件
+进入main.py文件运行
 
 修改存储位置
 
